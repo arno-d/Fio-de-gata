@@ -1,0 +1,13 @@
+.centro{
+    text-align: center;
+}
+.imgcenter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.padding{
+    padding-left: 150px;
+    padding-right: 150px;
+}
